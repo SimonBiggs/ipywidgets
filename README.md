@@ -1,3 +1,6 @@
+A fork for use with mybinder:
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/SimonBiggs/ipywidgets)
+
 # ipywidgets: Interactive HTML Widgets
 
 [![Version](https://img.shields.io/pypi/v/ipywidgets.svg)](https://pypi.python.org/pypi/ipywidgets)
